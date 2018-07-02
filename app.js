@@ -9,5 +9,7 @@ console.log(user);
 fs.appendFile('greetings.txt', 'Hello : '+ user, function(err){
     if(err){
         console.log(err)
-    }
+    };
 });
+
+
