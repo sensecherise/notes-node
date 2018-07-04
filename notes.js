@@ -1,6 +1,6 @@
 console.log('starting notes.js')
 
-console.log(module)
+//console.log(module)
 module.exports.age = 25;
 module.exports.addNote = () => {
     console.log('addNote')
@@ -10,3 +10,4 @@ module.exports.addNote = () => {
 module.exports.add = (numA, numB) => {
     return numA+numB
 }
+
