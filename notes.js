@@ -6,8 +6,3 @@ module.exports.addNote = () => {
     console.log('addNote')
     return 'New Notes'
 }
-
-module.exports.add = (numA, numB) => {
-    return numA+numB
-}
-
