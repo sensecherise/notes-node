@@ -17,6 +17,8 @@ var getNote = (title) => {
 
 var removeNote = (title) => {
     console.log('note deleted', title)
+    console.log('note deleted', title)
+
 }
 
 module.exports = {
