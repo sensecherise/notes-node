@@ -21,8 +21,6 @@ var removeNote = (title) => {
 
 }
 
-
-
 module.exports = {
     addNote,
     getAll,
